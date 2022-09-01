@@ -4,7 +4,7 @@ const port = process.env.PORT || 8080;
 
 const animes = require('./api.json')
 
-server.get('/', (req, res) => {
+server.get('/animeapi', (req, res) => {
     res.json(animes)
 })
 
