@@ -1,0 +1,11 @@
+{
+  "name": "anime-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/RianVitor26/anime-api",
+  "author": "RianVitor26 <rianvitorlhe@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
