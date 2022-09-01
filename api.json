@@ -1,0 +1,22 @@
+{
+    "animes": [
+        {
+            "name": "Naruto clássico",
+            "image": "https://animescomix.com/wp-content/uploads/2019/09/Naruto-Classico-Capa.jpg",
+            "episodes": "220",
+            "year": "2002",
+            "genres": [
+                "Ação", "Artes Marciais", "Aventura", "Ninja", "Shounen", "Superpoderes"
+            ]   
+        },
+        {
+            "name": "Dragon Ball Clássico",
+            "image": "http://pm1.narvii.com/7630/43fc90c2432149677e18906b29a132357a528957r1-1000-625v2_uhq.jpg",
+            "episodes": "153",
+            "year": "1986",
+            "genres": [
+                "Ação", "Artes Marciais", "Aventura", "Shounen", "Superpoderes"
+            ]   
+        }
+    ]
+}
