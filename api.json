@@ -10,12 +10,138 @@
             ]   
         },
         {
+            "name": "Naruto Shippuden",
+            "image": "https://animescomix.com/wp-content/uploads/2019/09/Naruto-Classico-Capa.jpg",
+            "episodes": "500",
+            "year": "2007",
+            "genres": [
+                "Ação", "Artes Marciais", "Aventura", "Ninja", "Shounen", "Superpoderes"
+            ]   
+        },
+        {
             "name": "Dragon Ball Clássico",
             "image": "http://pm1.narvii.com/7630/43fc90c2432149677e18906b29a132357a528957r1-1000-625v2_uhq.jpg",
             "episodes": "153",
             "year": "1986",
             "genres": [
                 "Ação", "Artes Marciais", "Aventura", "Shounen", "Superpoderes"
+            ]   
+        },
+        {
+            "name": "Dragon Ball Z",
+            "image": "https://animescomix.com/wp-content/uploads/2022/08/Dragon-Ball-Z-Dublado-Capaa.jpg",
+            "episodes": "291",
+            "year": "1989",
+            "genres": [
+                "Ação", "Artes Marciais", "Aventura", "Shounen", "Superpoderes", "Fantasia", "Comédia", "Sci-Fi"
+            ]   
+        },
+        {
+            "name": "Dragon ball super",
+            "image": "https://upload.wikimedia.org/wikipedia/pt/7/74/Dragon_Ball_Super_Key_visual.jpg",
+            "episodes": "131",
+            "year": "2015",
+            "genres": [
+                "Ação", "Artes Marciais", "Aventura", "Shounen", "Superpoderes", "Fantasia", "Comédia", "Sci-Fi"
+            ]   
+        },
+        {
+            "name": "Bleach",
+            "image": "https://static.wikia.nocookie.net/dublagem/images/e/ea/Bleach.png/revision/latest?cb=20220209215300&path-prefix=pt-br",
+            "episodes": "366",
+            "year": "2004",
+            "genres": [
+                "Ação", "Aventura", "Suspense", "Ficção de aventura", "Ficção supernatural"
+            ]   
+        },
+        {
+            "name": "One punch man",
+            "image": "https://gamehall.com.br/wp-content/uploads/2016/01/One-Punch-Man-Capa-Anime.jpg",
+            "episodes": "24",
+            "year": "2015",
+            "genres": [
+                "Ação", "Comédia", "Superhero comics"
+            ]   
+        },
+        {
+            "name": "Shingeky no inojin",
+            "image": "https://img1.ak.crunchyroll.com/i/spire3/dac363972d628a7009e04fdeb9d7104a1641869274_full.jpg",
+            "episodes": "24",
+            "year": "2018",
+            "genres": [
+                "Ação", "Drama", "Aventura", "Ficção pós-apocalíptica", "Fantasia sombria", "Terror"
+            ]   
+        },
+        {
+            "name": "Hunter X Hunter",
+            "image": "https://ovicio.com.br/wp-content/uploads/2022/05/20220527-ovicio-hunter-hunter-anime.jpg",
+            "episodes": "148",
+            "year": "2011",
+            "genres": [
+                "Ficção de aventura", "Fantasia", "Artes marciais"
+            ]   
+        },
+        {
+            "name": "Darwin's game",
+            "image": "https://img1.ak.crunchyroll.com/i/spire2/feb9b93904dba761c285970ce6d6ab111580259326_main.jpg",
+            "episodes": "11",
+            "year": "2020",
+            "genres": [
+                "Ação"
+            ]   
+        },
+        {
+            "name": "Sword art online",
+            "image": "http://pixelnerd.com.br/wp-content/uploads/2022/07/sword_art_online.jpg",
+            "episodes": "73",
+            "year": "2012",
+            "genres": [
+                "Ação", "Suspense", "Ficção científica", "Aventura"
+            ]   
+        },
+        {
+            "name": "Erased",
+            "image": "https://br.web.img2.acsta.net/pictures/19/09/20/16/59/1993201.jpg",
+            "episodes": "12",
+            "year": "2016",
+            "genres": [
+                "Mistério", "Suspense", "Ficção científica", "Fantasia", "Drama"
+            ]   
+        },
+        {
+            "name": "Death note",
+            "image": "https://img1.ak.crunchyroll.com/i/spire4/697c8b5ff2f49a97348b5507c06e11831576116356_main.jpg",
+            "episodes": "37",
+            "year": "2006",
+            "genres": [
+                "Mistério", "Suspense", "Suspense pscológico", "Terror"
+            ]   
+        },
+        {
+            "name": "JoJo no Kimyo na Boken",
+            "image": "https://fr.web.img5.acsta.net/pictures/20/03/10/12/07/4001550.jpg",
+            "episodes": "152",
+            "year": "2015",
+            "genres": [
+                "Aventura", "Suspense", "Ação", "Terror", "Ficção de aventura", "Ficção supernatural", "Artes Marciais", "Fantasia"
+            ]   
+        },
+        {
+            "name": "Baki - O campeão",
+            "image": "https://cdn.fstatic.com/media/movies/covers/2019/05/afgdg.jpg",
+            "episodes": "39",
+            "year": "2018",
+            "genres": [
+                "Ação", "Artes Marciais"
+            ]   
+        },
+        {
+            "name": "Baki Hanma",
+            "image": "https://tm.ibxk.com.br//ms/images/highlights/000/054/036/50739.jpg",
+            "episodes": "12",
+            "year": "2021",
+            "genres": [
+                "Ação", "Artes Marciais"
             ]   
         }
     ]
