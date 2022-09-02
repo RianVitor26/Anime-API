@@ -22,4 +22,4 @@ server.get('/animeapi', (req, res) => {
 })
 
 
-server.listen(port, () => console.log('server listening on port ' + port))
+server.listen(port, () => console.log(`http://localhost:${port}`))
